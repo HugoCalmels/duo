@@ -9,6 +9,7 @@ i = gets.chomp.to_i
 d = 0
 
 while i < 2021
-    puts"en #{i = i + 1}"" j ai #{d = d+1} an"
+    puts i = i + 1
+    puts d = d+1 
     
 end
