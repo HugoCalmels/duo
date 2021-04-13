@@ -9,7 +9,6 @@ bloc = '#'
 
 while i <= number
 
-    temp = (number - i)
     puts (bloc * i)
     i+=1
 
